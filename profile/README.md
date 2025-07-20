@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Check out the [Empty filament spool weight database](https://emptyspool.github.io/).
 <!--
 
 **Here are some ideas to get you started:**
